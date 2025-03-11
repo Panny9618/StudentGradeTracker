@@ -1,2 +1,2 @@
 # StudentGradeTracker
-{ https://saisrinivasa01.github.io/StudentGradeTracker/ }
+{ https://panny9618.github.io/StudentGradeTracker/ }
